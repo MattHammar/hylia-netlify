@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Dagens Händelser
-postsHeading: Tidigare
+postsHeading: Tidigare Händelser
 archiveButtonText: 'Se alla '
 socialImage: ''
 ---
