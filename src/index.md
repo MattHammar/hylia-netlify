@@ -5,4 +5,4 @@ postsHeading: Tidigare
 archiveButtonText: 'Se alla '
 socialImage: ''
 ---
-# Besök av Företag AB
+# Besök av företag företag AB
