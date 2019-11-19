@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Dagens Händelser
-postsHeading: Dagens Händelser
-archiveButtonText: See all posts
+postsHeading: Händelser
+archiveButtonText: 'Se alla '
 socialImage: ''
 ---
 # Besök av Företag AB
